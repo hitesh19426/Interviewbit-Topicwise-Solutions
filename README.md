@@ -9,7 +9,7 @@ Solutions to the programming questions on interviewbit
 | [Backtracking](https://github.com/hitesh19426/Interviewbit-Topicwise-Solutions/tree/main/Backtracking)| 15| 15
 | [Binary Search](https://github.com/hitesh19426/Interviewbit-Topicwise-Solutions/tree/main/Binary%20Search)| 16| 16 
 | [Bit Manipulation](https://github.com/hitesh19426/Interviewbit-Topicwise-Solutions/tree/main/Bit%20Manupulation)| 13| 13
-| [Dynamic Programming](https://github.com/hitesh19426/Interviewbit-Topicwise-Solutions/tree/main/Dynamic%20Programming)|42 | 70 
+| [Dynamic Programming](https://github.com/hitesh19426/Interviewbit-Topicwise-Solutions/tree/main/Dynamic%20Programming)| 44 | 70 
 | [Graphs](https://github.com/hitesh19426/Interviewbit-Topicwise-Solutions/tree/main/Graph%20Data%20Structure%20and%20Algorithms)| 31| 32
 | [Greedy Algorithm](https://github.com/hitesh19426/Interviewbit-Topicwise-Solutions/tree/main/Greedy%20Algorithm)| 10| 10 
 | [Hashing](https://github.com/hitesh19426/Interviewbit-Topicwise-Solutions/tree/main/Hashing)| 20| 22
