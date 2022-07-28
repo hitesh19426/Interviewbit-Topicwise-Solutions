@@ -35,4 +35,7 @@ Solutions to the programming questions on interviewbit
 3. If your algorithm is of the same time complexity but with reduced code size. In this case, comment out the original solution & make a pull request with your solution.
 4. If you have another method of solving the problem which is asymptotically slower than the original method then, comment your solution in the main file & make a pull request.
 
-If you have any questions about the solutions you can find here, feel free to contact me **hitesh19426@iiitd.ac.in**.
+## Credits:
+This repo is inspired by [royalpranjal](https://github.com/royalpranjal/Interview-Bit) and [black-shadows](https://github.com/black-shadows/InterviewBit-Topicwise-Solutions) but since they last commit was 2 years ago and they do not have many solutions to latest problems, i decided to create a new one.
+
+If you have any questions about the solutions you can find here, feel free to contact me **hitesh19426@iiitd.ac.in**. Please star the repo if you find it helpful at all.
